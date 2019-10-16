@@ -2,7 +2,7 @@ package exercice_6_1;
 
 public class Fraction {
     private float a,b;
-    
+    // modifié par moh 
     public Fraction()
     {
         a=1;
@@ -14,7 +14,8 @@ public class Fraction {
         this.a=a;
         this.b=1;
     }
- 
+
+
     public Fraction(float a, float b)
     {
         this.a=a;
