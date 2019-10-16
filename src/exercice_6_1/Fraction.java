@@ -1,6 +1,6 @@
 package exercice_6_1;
 
-public class Fraction {
+public class Fraction{
 
 	 private int numerateur;
 	 private int denominateur;
@@ -173,5 +173,4 @@ public class Fraction {
 	  this.numerateur=this.numerateur/pgcd;
 	  this.denominateur=this.denominateur/pgcd;
 	 }
-
-}
+	}
